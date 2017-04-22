@@ -1,4 +1,7 @@
-# test coverage for  [svg-sprite (v1.3.6)](https://github.com/jkphl/svg-sprite)  [![npm package](https://img.shields.io/npm/v/npmtest-svg-sprite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg-sprite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg-sprite.svg)](https://travis-ci.org/npmtest/node-npmtest-svg-sprite)
+# npmtest-svg-sprite
+
+#### basic test coverage for  [svg-sprite (v1.3.6)](https://github.com/jkphl/svg-sprite)  [![npm package](https://img.shields.io/npm/v/npmtest-svg-sprite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg-sprite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg-sprite.svg)](https://travis-ci.org/npmtest/node-npmtest-svg-sprite)
+
 #### SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)
 
 [![NPM](https://nodei.co/npm/svg-sprite.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/svg-sprite)
